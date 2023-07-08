@@ -12,13 +12,9 @@
 }
 .container>ul>li
 {
-	display: flex;
+	display: inline;
 	margin-right: 1rem;
 }
 ul{
 	list-style-type: none;
-}
-.container>ul>li
-{
-	margin-right: 1rem;
 }
